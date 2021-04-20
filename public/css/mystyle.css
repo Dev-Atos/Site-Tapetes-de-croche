@@ -5,3 +5,11 @@
 .masthead-avatar{
     border-radius: 200px;
 }
+
+.rifapdf{
+    color:purple;
+}
+
+.rifapdf:hover{
+    color:white;
+}
