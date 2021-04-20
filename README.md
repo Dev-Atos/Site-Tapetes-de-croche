@@ -2,7 +2,7 @@
 
 ## Informações
 
-:octocat: Site para meu repositório.
+:octocat: Site para meu repositório. <br>
 :rose: Site de artesanatos, tapetes máscaras e muito mais.
 
 ## Link do site
